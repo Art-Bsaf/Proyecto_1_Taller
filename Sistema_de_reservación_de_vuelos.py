@@ -1,0 +1,6 @@
+marcas = []
+modelos = []
+aerolineas = []
+aviones = []
+vuelos = []
+reservas = []
